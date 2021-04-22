@@ -1,4 +1,4 @@
-# POKEDEX
+# POKEDEX ⚡
 
 Projeto desenvolvido em equipe com os colegas: 
 - Pablo Silas
